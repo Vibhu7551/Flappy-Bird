@@ -23,10 +23,22 @@ pip install pygame
 bash
 Copy code
 python main.py
+
 📸 Screenshot
 Flappy.png
+
+🔮 Future Enhancements (Fullstack MERN)
+
+This project is being extended to include a Fullstack architecture:
+	•	Frontend: React.js for UI + gameplay dashboard
+	•	Backend: Node.js + Express.js API to handle game data
+	•	Database: MongoDB to store player scores & leaderboard
+	•	Deployment: Planned to be hosted on cloud (Heroku/Render)
+
+⸻
 
 ⭐ Contribute
 Feel free to fork this repo, raise issues, or send pull requests!
 
-Made with ❤️ by Vibhu7551
+💡 Made with ❤️ by Vibhu7551
+
